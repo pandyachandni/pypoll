@@ -25,4 +25,5 @@ Charles Casper Stockham 23.0% (85, 213)
 Raymon Anthony Doane 3.1% (11,606)
 
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
+1. This scirpt can be modified by changing the names of the candidates, name of counties to use for future elections.
+2. This script can be modified just to show the winner without any further breakdown.
